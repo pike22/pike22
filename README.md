@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pike22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Java and Game Creation. 
+- 🌱 I’m currently learning Computer Science 
 - 📫 How to reach me bluepike22@gmail.com
 
 <!---
