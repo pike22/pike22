@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pike22
 - 👀 I’m interested in Python, Java and Game Creation. 
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently learning Computer Science at the University of Toledo
 - 📫 How to reach me bluepike22@gmail.com
 
 <!---
