@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex Leasor or @aleasor
+- 👋 Hi, I’m Alex or @pike22
 - 👀 I’m interested in software development and Game Creation. 
 - 🌱 I’m currently learning Computer Science at the University of Toledo
 - 📫 Feel free to reach me at bluepike22@gmail.com
